@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\Android\Android Project\CNiao5Shop\app\build\intermediates\exploded-aar\CNiao5Shop\paysdk\unspecified\jars\libs\libpingpp-2.0.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="cefec1c673e885490d31f14f04e4aee1f74006c9">
+        <dex dex="E:\Android\Android Project\CNiao5Shop\app\build\intermediates\transforms\dex\debug\folders\1000\8\libpingpp-2.0.6_47c484f843f3c7a3839b58e31f6260a5d1c64a80\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MAIBENBEN\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.5.0\4de2b4ed3445c37ec1720a7d214712e845a24636\okhttp-2.5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="E:\Android\Android Project\CNiao5Shop\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-2.5.0_83b76753c0e4ab66d993a2d6c671bece4eaffb3d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\Android Project\CNiao5Shop\app\build\intermediates\exploded-aar\CNiao5Shop\smssdk\unspecified\jars\libs\MobLogCollector.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="fcabf41acb705860343325b6bc58925543b4069c">
+        <dex dex="E:\Android\Android Project\CNiao5Shop\app\build\intermediates\transforms\dex\debug\folders\1000\8\MobLogCollector_6a11b5774a53c60ce1ae7cb6ad33b1f0ffa9243f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MAIBENBEN\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.4\695b63d702f505b9b916e02272e3b6381bade7f\gson-2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0695b63d702f505b9b916e02272e3b6381bade7f">
+        <dex dex="E:\Android\Android Project\CNiao5Shop\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.4_8fd7846a4eda32336551581b2728883f14f92580\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\Android Project\CNiao5Shop\app\build\intermediates\exploded-aar\CNiao5Shop\sharesdk\unspecified\jars\libs\ShareSDK-QZone-2.6.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4dc2ed38379ecb29c009df86501f55c293cd9fec">
+        <dex dex="E:\Android\Android Project\CNiao5Shop\app\build\intermediates\transforms\dex\debug\folders\1000\8\ShareSDK-QZone-2.6.4_73b1a3839ca541eeec22d985d0e4cf35ee098389\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\Android Project\CNiao5Shop\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bfb1fbac83ceea81009309db3e06ec6c43d8b662">
+        <dex dex="E:\Android\Android Project\CNiao5Shop\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_8474c973a7a649028b3d175d2e37a2fb3d0635d0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\Android Project\CNiao5Shop\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\0.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="87bffaacf21eb2c6fc61cf01930ff96ae175e798">
+        <dex dex="E:\Android\Android Project\CNiao5Shop\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-fbcore-0.6.0_f884231ee93e7a8984897e36060af68ca96654c9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\Android Project\CNiao5Shop\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="E:\Android\Android Project\CNiao5Shop\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.3.1_26570a2989dfe0b50cb70dcdce846d53015c59c7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\Android Project\CNiao5Shop\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="E:\Android\Android Project\CNiao5Shop\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.3.1_6dc519471da1b7340036a2db9994aca60994465f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\Android Project\CNiao5Shop\app\build\intermediates\exploded-aar\CNiao5Shop\sharesdk\unspecified\jars\libs\MobCommons.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="12393cb8b4c97690a44569017573457a95c4d6ca">
+        <dex dex="E:\Android\Android Project\CNiao5Shop\app\build\intermediates\transforms\dex\debug\folders\1000\8\MobCommons_6c694c14746dea1c2e66078dd24ec3a688352026\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\Android Project\CNiao5Shop\app\build\intermediates\exploded-aar\com.android.support\design\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="E:\Android\Android Project\CNiao5Shop\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.3.1_25e6629f08b8dc62de303e0142a702f11141c30f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\Android Project\CNiao5Shop\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="E:\Android\Android Project\CNiao5Shop\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.3.1_6e9b64d6954add29fe88a92f7f9e5957f9ae35d3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\Android Project\CNiao5Shop\app\build\intermediates\exploded-aar\CNiao5Shop\smssdk\unspecified\jars\libs\SMSSDK-1.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9a6ce525f2c5a08c8112dfe930e8566adae9c2b">
+        <dex dex="E:\Android\Android Project\CNiao5Shop\app\build\intermediates\transforms\dex\debug\folders\1000\8\SMSSDK-1.3.1_74611bb59b8b40c68e57e95f7b71d7e794edb83f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MAIBENBEN\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="E:\Android\Android Project\CNiao5Shop\app\build\intermediates\transforms\dex\debug\folders\1000\10\library-2.4.0_453224ebf81a59dee40c188f1f7f74832434459f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\Android Project\CNiao5Shop\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="E:\Android\Android Project\CNiao5Shop\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.3.1_0ed0e9aec1ccc927a39b97627eeb860aa01e0305\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\Android Project\CNiao5Shop\app\build\intermediates\exploded-aar\com.android.support\transition\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="E:\Android\Android Project\CNiao5Shop\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.3.1_846633c3fbb0e0efc790737f4595678ad6b172a7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\Android Project\CNiao5Shop\app\build\intermediates\exploded-aar\CNiao5Shop\baidupaysdk\unspecified\jars\libs\Cashier_SDK-v4.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="abd9c1c803deee10be89de0d44f131377afc32bf">
+        <dex dex="E:\Android\Android Project\CNiao5Shop\app\build\intermediates\transforms\dex\debug\folders\1000\8\Cashier_SDK-v4.2.0_edf3368157b08a539ae3bdadedb3ad5856d6af19\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\Android Project\CNiao5Shop\app\build\intermediates\exploded-aar\CNiao5Shop\sharesdk\unspecified\jars\libs\ShareSDK-TencentWeibo-2.6.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="619cc3e1bf49bc16a71b79a47ecc776c9e826640">
+        <dex dex="E:\Android\Android Project\CNiao5Shop\app\build\intermediates\transforms\dex\debug\folders\1000\8\ShareSDK-TencentWeibo-2.6.4_64908a539a21ed6b173d9aa7a379a59c79fa9f17\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\Android Project\CNiao5Shop\app\build\intermediates\exploded-aar\com.cjj.materialrefeshlayout\library\1.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="597d857fe9b090c4582f0855a2c6d6cc45fec544">
+        <dex dex="E:\Android\Android Project\CNiao5Shop\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.cjj.materialrefeshlayout-library-1.3.0_250270baeaba92436275ee0f810d346c84980036\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\Android Project\CNiao5Shop\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="E:\Android\Android Project\CNiao5Shop\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.3.1_0cf668d4b68678334aa1765a5d4c27dcff8ad875\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\Android Project\CNiao5Shop\app\build\intermediates\exploded-aar\CNiao5Shop\paysdk\unspecified\jars\libs\alipaySDK-20150818.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1bb595cca0214617bc3c1e5c4a6d385a4118c6d8">
+        <dex dex="E:\Android\Android Project\CNiao5Shop\app\build\intermediates\transforms\dex\debug\folders\1000\8\alipaySDK-20150818_eee1f36ae9a2b5ec5660be42bef597bd389d715b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\Android Project\CNiao5Shop\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ff3704d7a5f5bffde5389989c29a5881fc8e69a8">
+        <dex dex="E:\Android\Android Project\CNiao5Shop\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_d130180097752144da0e8aa4125c4bcea7f44b7b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\Android Project\CNiao5Shop\app\build\intermediates\exploded-aar\CNiao5Shop\gloablelibrary\unspecified\jars\libs\MobTools.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9d67b4e43ae533fd5406041fa40fb3bc105abc2c">
+        <dex dex="E:\Android\Android Project\CNiao5Shop\app\build\intermediates\transforms\dex\debug\folders\1000\8\MobTools_449e41814736ef287b8adf2ea98804c9f8e957d5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\Android Project\CNiao5Shop\app\build\intermediates\exploded-aar\com.w4lle.library\NineLayout\1.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="77a3708405f2f35445d7533217d93b8b10bec62f">
+        <dex dex="E:\Android\Android Project\CNiao5Shop\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.w4lle.library-NineLayout-1.0.0_6209b1c892d50f2bdd57401b34544a4d7338f137\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\Android Project\CNiao5Shop\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\0.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="27ebd5d2c69a1830b4ff47a1d5d4c6a4aab5e233">
+        <dex dex="E:\Android\Android Project\CNiao5Shop\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-fresco-0.6.0_7f377b4b145921059c28d95427f62ad0b45605e0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\Android Project\CNiao5Shop\app\build\intermediates\exploded-aar\com.jiechic.library\xUtils\2.6.14\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="fe75606aa9485cd20177894c204291a79a0cc7ab">
+        <dex dex="E:\Android\Android Project\CNiao5Shop\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.jiechic.library-xUtils-2.6.14_7ee49d32e56f323edb0373e0cf3c3dd5ff038520\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\Android Project\CNiao5Shop\app\build\intermediates\exploded-aar\CNiao5Shop\sharesdk\unspecified\jars\libs\ShareSDK-SinaWeibo-2.6.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1a6d2c7c32ca173e9b1991fc98edc7fb0dbee9bf">
+        <dex dex="E:\Android\Android Project\CNiao5Shop\app\build\intermediates\transforms\dex\debug\folders\1000\8\ShareSDK-SinaWeibo-2.6.4_8c8ff0ee1000bd902e24a8106a619e42ed6ae8c5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\Android Project\CNiao5Shop\app\build\intermediates\exploded-aar\com.github.d-max\spots-dialog\0.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f82b3f786bf4937ed1a1cc9a9a811e154813ba9a">
+        <dex dex="E:\Android\Android Project\CNiao5Shop\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.github.d-max-spots-dialog-0.4_8a0178736a1594947fc2b01185682b241c127fe5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\Android Project\CNiao5Shop\app\build\intermediates\exploded-aar\CNiao5Shop\sharesdk\unspecified\jars\libs\ShareSDK-Wechat-Moments-2.6.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="000f72dc9f4b41bf7bd70cd1efacce4767df24af">
+        <dex dex="E:\Android\Android Project\CNiao5Shop\app\build\intermediates\transforms\dex\debug\folders\1000\8\ShareSDK-Wechat-Moments-2.6.4_696175921e4d26d483f7837fad2febb1cb86238c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\Android Project\CNiao5Shop\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="E:\Android\Android Project\CNiao5Shop\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.3.1_a44d220f52e736732b099e71f96f97ed09c445cf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\Android Project\CNiao5Shop\app\build\intermediates\exploded-aar\com.bigkoo\pickerview\2.0.3\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0504516e1f6d20b7975f2a6b1c31f32383fefe8e">
+        <dex dex="E:\Android\Android Project\CNiao5Shop\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.bigkoo-pickerview-2.0.3_70a040e2273e2ed23f53b6958763b7fc8ee648a8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\Android Project\CNiao5Shop\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="E:\Android\Android Project\CNiao5Shop\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.3.1_47e36a24683b9e930de94ba3f74258cf2516ad6a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\Android Project\CNiao5Shop\app\build\intermediates\exploded-aar\CNiao5Shop\sharesdk\unspecified\jars\libs\ShareSDK-Wechat-Favorite-2.6.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8faa7d6727df1d7dff196891f2cb47c68fe5ea7a">
+        <dex dex="E:\Android\Android Project\CNiao5Shop\app\build\intermediates\transforms\dex\debug\folders\1000\8\ShareSDK-Wechat-Favorite-2.6.4_5c1412ea13a6d6842c6e97f03b11b8fbecd3476f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\Android Project\CNiao5Shop\app\build\intermediates\exploded-aar\com.daimajia.slider\library\1.1.5\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="08962e03b6a954c65d4944e092879b7f5ee1208d">
+        <dex dex="E:\Android\Android Project\CNiao5Shop\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.daimajia.slider-library-1.1.5_a4f64154275e8adbbffd62d56e0fee3876779abc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\Android Project\CNiao5Shop\app\build\intermediates\exploded-aar\CNiao5Shop\sharesdk\unspecified\jars\libs\ShareSDK-Wechat-2.6.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="cf18acb26d624ca06eab53e0fac1fdee57e6837f">
+        <dex dex="E:\Android\Android Project\CNiao5Shop\app\build\intermediates\transforms\dex\debug\folders\1000\8\ShareSDK-Wechat-2.6.4_29942bf65e11d6ac275beddf58e4acb7537ac876\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\Android Project\CNiao5Shop\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\0.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b5eb6c5f132d34f7ece3fbae25feb43e4ea9d6aa">
+        <dex dex="E:\Android\Android Project\CNiao5Shop\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-imagepipeline-0.6.0_e20cbbe2181c4623e68c58b11b52c9432f395e76\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\Android Project\CNiao5Shop\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\2.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="031e8b3ab2df4ab43b1017f84417d7e10dfbb8d2">
+        <dex dex="E:\Android\Android Project\CNiao5Shop\app\build\intermediates\transforms\dex\debug\folders\1000\10\de.hdodenhof-circleimageview-2.0.0_f69e0b4785ea7fd04dd11688a120b131f987218a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\Android Project\CNiao5Shop\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\Android\Android Project\CNiao5Shop\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.3.1_8c461994381aa45d28086e5e3307e2e98b392274\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\Android Project\CNiao5Shop\app\build\intermediates\exploded-aar\CNiao5Shop\paysdk\unspecified\jars\libs\UPPayAssistEx.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f15b9441eb925ad06f1063c6b4b019762695cb62">
+        <dex dex="E:\Android\Android Project\CNiao5Shop\app\build\intermediates\transforms\dex\debug\folders\1000\8\UPPayAssistEx_836a6432522e22bf6d165d98dc5e50bf2cf626bc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\Android Project\CNiao5Shop\app\build\intermediates\exploded-aar\CNiao5Shop\sharesdk\unspecified\jars\libs\ShareSDK-QQ-2.6.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="30230e2e99335be55dcb6f00a0b8115ca7511ddb">
+        <dex dex="E:\Android\Android Project\CNiao5Shop\app\build\intermediates\transforms\dex\debug\folders\1000\8\ShareSDK-QQ-2.6.4_93d1e08c8497327d43d693379622cdc1594e4823\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\Android Project\CNiao5Shop\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="E:\Android\Android Project\CNiao5Shop\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-25.3.1_7d866a8dfacd2a3ae7a8cb153a24cfa5cc7f27ec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\Android Project\CNiao5Shop\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="E:\Android\Android Project\CNiao5Shop\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.3.1_6aefd7d1fca9fdb6278baf333304b41e69a5920d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MAIBENBEN\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="E:\Android\Android Project\CNiao5Shop\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_d890a42972098af5a93356cad35363631e90b3a2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MAIBENBEN\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="E:\Android\Android Project\CNiao5Shop\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.6.0_34a1e92192b43962ea6f9ee6780396caa3e8e344\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\Android Project\CNiao5Shop\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\0.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d572f92ecb6ae3b66e807550b07e4a6cca1f737f">
+        <dex dex="E:\Android\Android Project\CNiao5Shop\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-drawee-0.6.0_9ca42d6030259f2e3482f8a5b54af3d828fd21b4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\Android Project\CNiao5Shop\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp\0.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="543b4bf48e20cc32db51dbd9138ac181586ebe85">
+        <dex dex="E:\Android\Android Project\CNiao5Shop\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-imagepipeline-okhttp-0.6.0_15216c9cbeff5f6c9bb3958e8cdc40f5c52a8689\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\Android Project\CNiao5Shop\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="E:\Android\Android Project\CNiao5Shop\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.3.1_7664bf4a86e62d415ccf4a9a1462cfd6896c2dde\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\Android Project\CNiao5Shop\app\build\intermediates\exploded-aar\CNiao5Shop\paysdk\unspecified\jars\libs\libammsdk.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b5fe9dcdaca41bdb2874b503a628723c658346c8">
+        <dex dex="E:\Android\Android Project\CNiao5Shop\app\build\intermediates\transforms\dex\debug\folders\1000\8\libammsdk_4c531c4c1c41eb7e67fde48742332e63da28abe4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\Android Project\CNiao5Shop\app\build\intermediates\exploded-aar\CNiao5Shop\sharesdk\unspecified\jars\libs\ShareSDK-Core-2.6.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ef8f74e84cf3c74ccfe6264469f7018ddc45e038">
+        <dex dex="E:\Android\Android Project\CNiao5Shop\app\build\intermediates\transforms\dex\debug\folders\1000\8\ShareSDK-Core-2.6.4_fde426877b7bbc1406c5570072911761ca185cb6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\Android Project\CNiao5Shop\app\build\intermediates\exploded-aar\CNiao5Shop\paysdk\unspecified\jars\libs\UPPayPluginEx.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0ad7e79453bf1e6e0117cb51d924907376d6cc03">
+        <dex dex="E:\Android\Android Project\CNiao5Shop\app\build\intermediates\transforms\dex\debug\folders\1000\8\UPPayPluginEx_a24282f9795ff500815d6821af1018ddd2e6b4c5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="E:\Android\Android Project\CNiao5Shop\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_762974f087c5d1d7175d593dab4e23d42988de15\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MAIBENBEN\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.1.4\129874135e6081269ace2312092031558865de12\bolts-android-1.1.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="E:\Android\Android Project\CNiao5Shop\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-android-1.1.4_b6ba98867adcaf1236a1aed3de3fef04a8ce3a57\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\Android Project\CNiao5Shop\app\build\intermediates\exploded-aar\CNiao5Shop\sharesdk\unspecified\jars\libs\ShareSDK-Wechat-Core-2.6.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="927a1694955196296c04d7dc49564da232f173cd">
+        <dex dex="E:\Android\Android Project\CNiao5Shop\app\build\intermediates\transforms\dex\debug\folders\1000\8\ShareSDK-Wechat-Core-2.6.4_c18ba5f4f0c0805f51bcd8ac3cd7cca3abb057f6\classes.dex" />
+    </item>
+
+</items>
